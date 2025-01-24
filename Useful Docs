@@ -1,7 +1,10 @@
-Read this for more info on using "YouTube Data API v3"
+Open the following links to learn more info on using "YouTube Data API v3"
 
 - Captions -
 https://developers.google.com/youtube/v3/docs/?apix=true#Captions
+
+- Captions Download - 
+https://developers.google.com/youtube/v3/docs/captions/download
 
 - Comment Threads - 
 https://developers.google.com/youtube/v3/docs/?apix=true#CommentThreads
